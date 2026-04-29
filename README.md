@@ -28,7 +28,7 @@ Sebelum menginstal, pastikan komputer Anda sudah terinstal:
 1. **Clone Repository**
 
     ```bash
-    git clone https://github.com/dheandi/SAW-KaryawanTerbaik.git
+    git clone https://github.com/dheandi/KaryawanTerbaik-SAW.git
     cd KaryawanTerbaik-SAW
     ```
 
